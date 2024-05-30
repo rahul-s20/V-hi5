@@ -1,0 +1,10 @@
+*.idea
+*__pycache__
+*venv
+*node_modules
+run-local.bat
+runlocal.sh
+dataset
+later
+nuron_saved_models
+vosk_model
